@@ -1,0 +1,11 @@
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Release\Ampex Crypto Launcher.exe.config
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Release\Ampex Crypto Launcher.exe
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Release\Ampex Crypto Launcher.pdb
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Release\Ampex Crypto Launcher.xml
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ampex_Crypto_Launcher.Main.resources
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ampex_Crypto_Launcher.Resources.resources
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ampex Crypto Launcher.vbproj.GenerateResource.cache
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ampex Crypto Launcher.vbproj.CoreCompileInputs.cache
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ampex Crypto Launcher.exe
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ampex Crypto Launcher.xml
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ampex Crypto Launcher.pdb

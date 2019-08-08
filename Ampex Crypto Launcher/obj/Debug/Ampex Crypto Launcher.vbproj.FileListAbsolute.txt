@@ -1,0 +1,19 @@
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ampex Crypto Launcher.exe.config
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ampex Crypto Launcher.exe
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ampex Crypto Launcher.pdb
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ampex Crypto Launcher.xml
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ampex Crypto Launcher.vbprojAssemblyReference.cache
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ampex_Crypto_Launcher.Main.resources
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ampex_Crypto_Launcher.Resources.resources
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ampex Crypto Launcher.vbproj.GenerateResource.cache
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ampex Crypto Launcher.vbproj.CoreCompileInputs.cache
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ampex Crypto Launcher.exe
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ampex Crypto Launcher.xml
+c:\users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ampex Crypto Launcher.pdb
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.WebBrowser.DLL
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.Base.dll
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.WebEngine.dll
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.WebBrowser.xml
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.Base.xml
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.WebEngine.xml
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ampex Crypto Launcher.vbproj.CopyComplete

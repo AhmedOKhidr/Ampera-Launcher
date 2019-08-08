@@ -1,0 +1,19 @@
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Release\Ndless Crypto Launcher.exe.config
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Release\Ndless Crypto Launcher.exe
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Release\Ndless Crypto Launcher.pdb
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Release\Ndless Crypto Launcher.xml
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Release\EO.WebBrowser.DLL
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Release\EO.Base.dll
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Release\EO.WebEngine.dll
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Release\EO.WebBrowser.xml
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Release\EO.Base.xml
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Release\EO.WebEngine.xml
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ndless Crypto Launcher.vbprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ndless_Crypto_Launcher.Main.resources
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ndless_Crypto_Launcher.Resources.resources
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ndless Crypto Launcher.vbproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ndless Crypto Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ndless Crypto Launcher.vbproj.CopyComplete
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ndless Crypto Launcher.exe
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ndless Crypto Launcher.xml
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Release\Ndless Crypto Launcher.pdb

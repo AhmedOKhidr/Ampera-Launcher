@@ -1,0 +1,55 @@
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ndless Crypto Launcher.exe.config
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ndless Crypto Launcher.exe
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ndless Crypto Launcher.pdb
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ndless Crypto Launcher.xml
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.WebBrowser.DLL
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.Base.dll
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.WebEngine.dll
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.WebBrowser.xml
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.Base.xml
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.WebEngine.xml
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless_Crypto_Launcher.Main.resources
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless_Crypto_Launcher.Resources.resources
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.vbproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.vbproj.CopyComplete
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.exe
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.xml
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.pdb
+C:\Users\ahmed\source\repos\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.vbprojAssemblyReference.cache
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ndless Crypto Launcher.exe.config
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ndless Crypto Launcher.exe
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ndless Crypto Launcher.pdb
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ndless Crypto Launcher.xml
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.Base.dll
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.WebEngine.dll
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.WebBrowser.xml
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.Base.xml
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.WebEngine.xml
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.vbprojAssemblyReference.cache
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless_Crypto_Launcher.Main.resources
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless_Crypto_Launcher.Resources.resources
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.vbproj.GenerateResource.cache
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.vbproj.CoreCompileInputs.cache
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.vbproj.CopyComplete
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.exe
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.xml
+E:\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.pdb
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ndless Crypto Launcher.exe.config
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ndless Crypto Launcher.exe
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ndless Crypto Launcher.pdb
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\Ndless Crypto Launcher.xml
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.Base.dll
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.WebEngine.dll
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.WebBrowser.xml
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.Base.xml
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\bin\Debug\EO.WebEngine.xml
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.vbprojAssemblyReference.cache
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless_Crypto_Launcher.Main.resources
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless_Crypto_Launcher.Resources.resources
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.vbproj.GenerateResource.cache
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.vbproj.CoreCompileInputs.cache
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.vbproj.CopyComplete
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.exe
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.xml
+E:\Origin\Ampex Crypto Launcher\Ampex Crypto Launcher\obj\Debug\Ndless Crypto Launcher.pdb
